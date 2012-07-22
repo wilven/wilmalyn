@@ -1,0 +1,11 @@
+class cloth:
+    def __init__ (self):
+        self.brand=""
+        self.color=""
+        self.size=""
+
+class teeshirt(cloth):
+    pass
+
+class polo(cloth):
+    pass
