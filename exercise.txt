@@ -1,0 +1,6 @@
+class cloth:
+    def __init__ (self):
+        self.brand=""
+        self.color=""
+        self.size=""
+
